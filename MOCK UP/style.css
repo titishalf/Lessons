@@ -1,0 +1,183 @@
+*
+
+{
+	margin:0;
+	padding:0;
+	
+}
+body
+{
+	background-color:#4C9B5C
+}
+header
+{
+	background-color:#4C9B5C
+}
+.main-nav
+{
+	float: right;
+	list-style: none;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+.logo img
+{
+	margin-top: 50px;
+	width: 150px;
+	height: 150px;
+	float: left;
+}
+.hero
+{
+	position: absolute;
+	width: 1200px;
+	margin-left:0px;
+	margin-top:0px;
+}
+h1
+{
+	font-size:60px;
+	text-align:center;
+    margin-top:65px;
+	
+}
+	.England
+	{
+		position: absolute;
+		margin-top:440px;
+		margin-left:15px;
+		
+	}
+	.Germany
+	{
+		position: absolute;
+		margin-top:440px;
+		margin-left:250px;
+		
+	
+	}
+	.Italy
+	{	
+	    position: absolute;
+		margin-top:440px;
+		margin-left:490px;
+		
+	}
+	.France
+	{	
+	    position: absolute;
+		margin-top:440px;
+		margin-left:735px;
+		
+	}
+	.Spain
+	{	
+	    position: absolute;
+		margin-top:440px;
+		margin-left:970px;
+		
+	}
+	.footer 
+	{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:#2f4f4f	;
+    text-align: center;
+}
+.facebook {
+  position: absolute;
+  font-size:30px;
+  color: blue;
+  width: 40px;
+  margin-top:550px;
+  margin-left:1180px;
+}
+
+.twitter 
+{
+  position: absolute;
+  font-size:30px;
+  color: blue;
+  width: 40px;
+  margin-top:580px;
+  margin-left:1180px;
+}
+.follow 
+{
+  position: absolute;
+  margin-top:560px;
+  margin-left:1250px;
+}
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type=text] 
+{
+  position:absolute;
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width:20%;
+  background: #f1f1f1;
+  margin-top:290px;
+}
+form.example button 
+{
+position:absolute;
+  float: left;
+  width: 5%;
+  height:6%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  margin-top:290px;
+  margin-left:205px;
+}
+form.example button:hover 
+{
+  background: #0b7dda;
+}
+form.example::after 
+{
+  content: "";
+  clear: both;
+  display: table;
+}
+.dropdown select
+{
+   background:#f1f1f1;
+   width: 200px;
+   height:6%;
+   padding: 10px;
+   font-family:Arial, Helvetica, sans-serif;
+   color:bkack;
+   line-height: 1;
+   border: 0;
+   border-radius: 0;
+  
+  }
+.dropdown
+{
+    width: 200px;
+    overflow: hidden;
+    background:white;
+    border-top:#575757 1px solid; 
+}
+select > option 
+{
+  background: white;
+  color: black;
+}
+.dropdown
+{
+  margin-top:90px;
+  margin-left:480px;	
+}
