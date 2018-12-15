@@ -1,0 +1,11 @@
+C:\Users\Teacher\Desktop\winform\calculato\calculato\bin\Debug\calculato.exe.config
+C:\Users\Teacher\Desktop\winform\calculato\calculato\bin\Debug\calculato.exe
+C:\Users\Teacher\Desktop\winform\calculato\calculato\bin\Debug\calculato.pdb
+C:\Users\Teacher\Desktop\winform\calculato\calculato\obj\Debug\calculato.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\winform\calculato\calculato\obj\Debug\calculato.Calculatore.resources
+C:\Users\Teacher\Desktop\winform\calculato\calculato\obj\Debug\calculato.Form1.resources
+C:\Users\Teacher\Desktop\winform\calculato\calculato\obj\Debug\calculato.Properties.Resources.resources
+C:\Users\Teacher\Desktop\winform\calculato\calculato\obj\Debug\calculato.csproj.GenerateResource.cache
+C:\Users\Teacher\Desktop\winform\calculato\calculato\obj\Debug\calculato.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\winform\calculato\calculato\obj\Debug\calculato.exe
+C:\Users\Teacher\Desktop\winform\calculato\calculato\obj\Debug\calculato.pdb
